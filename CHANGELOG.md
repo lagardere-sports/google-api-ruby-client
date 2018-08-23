@@ -1,3 +1,6 @@
+# 0.8.8
+* Ensures compatibility with Retriable ~> 3.1
+
 # 0.8.7
 * Ensures Ruby 2.5 support (See: 1030b7) by avoiding duplicate HTTP headers being set.
 
